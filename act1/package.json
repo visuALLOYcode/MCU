@@ -1,0 +1,26 @@
+{
+  "name": "pro113",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000M\u0000C\u0000U\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/visuALLOYcode/MCU.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/visuALLOYcode/MCU/issues"
+  },
+  "homepage": "https://github.com/visuALLOYcode/MCU#readme",
+  "dependencies": {
+    "nodemon": "^3.1.10"
+  },
+  "devDependencies": {}
+}
